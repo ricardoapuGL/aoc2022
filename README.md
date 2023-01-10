@@ -1,7 +1,7 @@
 # aoc2022
 Advent of Code 2022 in Python 
 
-- [x] 01
+- [x] 01 [Calorie Counting](01_calorie_counting.py)
 - [ ] 02
 - [ ] 02
 - [ ] 04
