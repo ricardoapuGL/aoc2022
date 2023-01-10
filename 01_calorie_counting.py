@@ -67,7 +67,6 @@ top_highest_calories = array([])
 curr_elf_calories = 0
     
 with open("01.txt") as input:
-    # Puzzle 1
     for line in input:
         line = line.strip('\n')
         print(line)
