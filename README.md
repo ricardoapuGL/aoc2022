@@ -2,8 +2,8 @@
 Advent of Code 2022 in Python 
 
 - [x] 01 [Calorie Counting](01_calorie_counting.py)
-- [ ] 02
-- [ ] 02
+- [x] 02 [Rock, Paper, Scisors](02_rock_paper_scisors.py)
+- [x] 03 [Rucksack Reorganization](03_rucksack_reorganization.py)
 - [ ] 04
 - [ ] 05
 - [ ] 06
